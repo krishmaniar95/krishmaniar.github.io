@@ -6073,6 +6073,7 @@ a.close.disabled {
 }
 
 .bg-primary {
+  background-image: url("background_img_1.jpg");
   background-color: #1abc9c !important;
 }
 
@@ -6083,6 +6084,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
+  background-image: url("background_img_2.jpg");
   background-color: #2c3e50 !important;
 }
 
